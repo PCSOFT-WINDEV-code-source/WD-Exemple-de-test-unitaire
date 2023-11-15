@@ -1,0 +1,111 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Exemple de test unitaire
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Exemple de test unitaire
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Exemple de test unitaire
+    internal_properties : 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
+    configuration_id : 6336027591107583708
+    type : 1
+    generation_name : WD Exemple de test unitaire.exe
+    version :
+     major_version : 20
+     internal_generation_version : 1
+     autoincrement_version : false
+    icon_filename : .\description.ico
+    language : 1
+ elements :
+  identifier : 0x4acc5746000f6835
+  elements :
+   -
+     name : FEN_saisieadresse
+     identifier : 0x3e300ba044bda916
+     internal_properties : CAAAAAgAAAD9WdXJ9qMLFCOyweHGwo4+ezSG5ojNqQiGE2KStmWpvzWrUyfrFVHNjLYgmBjIsCDoaA==
+     physical_name : .\FEN_saisieadresse.wdw
+     type : 2
+   -
+     name : TEST_Procedures_globales
+     identifier : 0x45645b5d00010aec
+     internal_properties : CAAAAAgAAACvq4ebKFXdjlks9yuoXTD0mdQgwPQGh1qyciHiK8TOYlZKjH6BvwcD9iCaZi6iXlK6ug==
+     physical_name : .\TEST_Procedures_globales.wxt
+     type : 17
+   -
+     name : TEST_FEN_saisieadresse
+     identifier : 0x4561b49900019306
+     internal_properties : CAAAAAgAAACV8f0hnvuz7Pt6mdmOvEpyA1C+tohKP2a2dSqZ4D9X6dvVCeEj3RkVxH54QMAwyDiAgA==
+     physical_name : .\TEST_FEN_saisieadresse.wxt
+     type : 17
+   -
+     name : Procedures_globales
+     identifier : 0x45645b5a0000fe2a
+     internal_properties : CAAAAAgAAAAZdcHF4l/X2OdmhSW6yaa2W+qiCsIMIHWKeDmKt2iiVuZ+HN4n0RURwHpkXCTcpBT8BA==
+     physical_name : .\Procedures_globales.wdg
+     type : 7
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Exemple de test unitaire.ana\WD Exemple de test unitaire.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ wd_style_sheet : ".\\WD Controles de saisie.sty\r\n.\\WD Exemple de test unitaire.sty"
+ wb_style_sheet : .\WD Controles de saisie.wws
+ code_elements :
+  internal_properties : CAAAAAgAAAAySygPcZ4GJX0P6OaZtGImf6VeIpQpJLYsyy6IpEyeB4oR6+2AWanMnxYyL8kUO6ZLoCf7gRyLXo4A3BCx9g==
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAACmoVLMw6IVaNN+EzbCZ6RfCxh5pVzFPCZhG88znScG1z/Y/PkdJeeP3irLcbXCN5RHeNd369Fx6IvEJqGLFE9HzBcOG+6ib4SBPfY0gUSlaVKJGNF5IaHvg1Ejosjz6t2GLW9jk83MVZZ/lw==
+     code : |1+
+      // Init HF
+      HMode(HModeMulti)
+      houvre("*")
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Exemple de test unitaire
+     identifier : 0x4acc5746001468d1
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
